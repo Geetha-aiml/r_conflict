@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this file is added in remote repository
+=======
+this file is added in fb_
+>>>>>>> 32bbd70 (f2.txt added in fb_)
